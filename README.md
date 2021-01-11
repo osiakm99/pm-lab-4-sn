@@ -13,4 +13,4 @@ Numer albumu: 72543
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Ukonczenie zajęć 4
